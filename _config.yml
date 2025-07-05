@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Britney Forsyth"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "LA/NYC/ATX"
-  employer         : "Red Brick University"
+  bio              : "Data Scientist "
+  location         : "NYC"
+  employer         : "BS Mathematics + BS Biomedical Engineering @ Penn State"
   uri              : # URL
   email            : "britneyforsyth8@gmail.com" 
 
