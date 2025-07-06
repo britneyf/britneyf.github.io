@@ -12,7 +12,7 @@ pdf: "https://www.mdpi.com/2079-6374/11/8/288/pdf"  # direct PDF link
 category: manuscripts
 ---
 
-Published in *Biosensors* (MDPI) in 2021.  
+Published in Biosensors (MDPI) in 2021.  
 This study presents a rapid single-cell workflow for antimicrobial susceptibility testing in bloodstream infections, offering a potential advance in clinical decision-making.
 
 [View Full Text](https://doi.org/10.3390/bios11080288)
