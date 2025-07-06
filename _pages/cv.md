@@ -15,12 +15,16 @@ Education
 * B.S. in Mathematics, Pennsylvania State University, 2021
 * B.S. in Biomedical Engineering, Pennsylvania State University, 2021
 
-Work experience
+Work Experience
 ======
-* Data Scientist | Memorial Sloan Kettering Cancer Center | New York, NY (Jan 2023 - June 2025)
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Data Scientist**  
+*Memorial Sloan Kettering Cancer Center – New York, NY*  
+*Jan 2023 – June 2025*  
+- Led analysis on colorectal cancer single-cell datasets to identify cell state transitions under stress conditions  
+- Published [ZFP36L2 study](https://doi.org/10.1158/1538-7445.AM2025-2648) in *Cancer Research*  
+- Developed reproducible pipelines using Snakemake and Scanpy  
+- Contributed to an internal [GitHub repo](https://github.com/your-repo-link) for clinical data preprocessing  
+**Skills**: Python, Scanpy, single-cell RNA-seq, Git, Snakemake, Seurat
 
 * Fall 2015: Research Assistant
   * GitHub University
@@ -32,14 +36,14 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
