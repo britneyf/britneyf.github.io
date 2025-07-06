@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Predicting Clinician Fixations on Glaucoma OCT Reports via CNN-Based Saliency Prediction Methods"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2024-03-01-glaucoma-saliency-prediction
+excerpt: "This study uses CNN-based saliency prediction models to anticipate clinician gaze patterns on glaucoma OCT reports, contributing to enhanced visualization and interpretability in ophthalmic diagnostics."
+date: 2024-03-01
+venue: 'IEEE Open Journal of Engineering in Medicine and Biology'
+paperurl: 'https://doi.org/10.1109/OJEMB.2024.3367492'
+citation: 'Zang, M.; Mukund, P.; Forsyth, B.; Laine, A.F.; Thakoor, K.A. (2024). "Predicting Clinician Fixations on Glaucoma OCT Reports via CNN-Based Saliency Prediction Methods." <i>IEEE Open Journal of Engineering in Medicine and Biology</i>, 5, 191–197. https://doi.org/10.1109/OJEMB.2024.3367492'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper presents a deep learning-based approach for predicting clinician gaze patterns on optical coherence tomography (OCT) glaucoma reports using CNN-driven saliency maps. The work enhances understanding of clinician decision-making and supports AI-augmented diagnostic tools.
