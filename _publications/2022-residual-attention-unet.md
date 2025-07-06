@@ -13,9 +13,5 @@ pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9871026"  # direc
 category: conferences
 ---
 
-Presented at the **2022 IEEE EMBC Conference** in Glasgow, UK.  
+Presented at the 2022 IEEE EMBC Conference in Glasgow, UK.  
 This paper introduces a residual attention U-Net combined with edge enhancement for improved image segmentation in microscopy, preserving critical cell shape features.
-
-**Keywords**: Image segmentation, Sensitivity, Shape, Microscopy, Edge detection, Computer architecture, Cell biology
-
-[View Full Text](https://doi.org/10.1109/EMBC48229.2022.9871026)
