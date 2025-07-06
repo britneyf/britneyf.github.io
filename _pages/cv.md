@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Data Science, Columbia University, 2022
+* B.S. in Mathematics (Specialization in Statistics), Pennsylvania State University, 2021
+* B.S. in Biomedical Engineering (Specialization in Biochemistry), Pennsylvania State University, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* Data Scientist | Memorial Sloan Kettering Cancer Center | New York, NY (Jan 2023 - June 2025)
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
