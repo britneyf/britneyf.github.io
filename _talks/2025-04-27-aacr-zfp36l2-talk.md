@@ -2,7 +2,7 @@
 title: "ZFP36L2 Orchestrates Stress Adaptive Plasticity During Injury Repair and Metastasis"
 collection: talks
 type: "Talk"
-permalink: /talks/2025-04-27-aacr-zfp36l2-talk
+permalink: https://aacrjournals.org/cancerres/article/85/8_Supplement_1/2648/756636
 venue: "American Association for Cancer Research Annual Meeting 2025"
 date: 2025-04-27
 location: "Chicago, IL, USA"
