@@ -9,7 +9,7 @@ volume: 11
 pages: 288
 doi: "https://doi.org/10.3390/bios11080288"
 pdf: "https://www.mdpi.com/2079-6374/11/8/288/pdf"  # direct PDF link
-category: [peer-reviewed]
+category: manuscripts
 ---
 
 Published in *Biosensors* (MDPI) in 2021.  
