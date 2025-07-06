@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * M.S. in Data Science, Columbia University, 2022
-* B.S. in Mathematics (Specialization in Statistics), Pennsylvania State University, 2021
-* B.S. in Biomedical Engineering (Specialization in Biochemistry), Pennsylvania State University, 2021
+* B.S. in Mathematics, Pennsylvania State University, 2021
+* B.S. in Biomedical Engineering, Pennsylvania State University, 2021
 
 Work experience
 ======
