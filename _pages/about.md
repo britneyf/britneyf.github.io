@@ -17,7 +17,7 @@ Here are some things I’ve built/contributed to:
 - 🩻 A 3D CNN for stroke classification from MRI scans  
 - 🧫 A lab-on-a-chip system for rapid bacterial pathogen detection
 
-If you’re in NYC and working on something exciting, feel free to [reach out](mailto:britneyforsyth8@gmail.com).
+If you’re in NYC and working on something exciting or just want to chat about AI, feel free to [say hi](mailto:britneyforsyth8@gmail.com).
 
 You can also [see what I’ve published](/publications), [check out my talks](/talks), or [download my CV](/cv).
 
