@@ -1,4 +1,66 @@
 /* CV Layout Specific Styles */
+/* Layout container */
+.cv-layout .container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* Section Headers (## in Markdown) */
+.cv-layout h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+/* Subsection Headers (### in Markdown) */
+.cv-layout h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+/* Job/education detail text */
+.cv-layout p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+/* Skill line and emphasized text */
+.cv-layout p strong {
+  font-weight: 600;
+}
+
+/* Lists */
+.cv-layout ul {
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.cv-layout li {
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+}
+
+/* Link styling */
+.cv-layout a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+.cv-layout a:hover {
+  text-decoration: underline;
+}
+
+/* Header nav bar for CV-specific pages (optional use) */
 .cv-header-nav {
   padding: 1rem 0;
   text-align: center;
@@ -23,76 +85,36 @@
   background-color: #1756a9;
 }
 
-.cv-container {
-  max-width: 1000px;
-  margin: 0 auto;
-}
-
-/* Download links styling */
+/* PDF download links */
 .cv-download-links {
-  margin-top: 2rem;
+  margin-top: 3rem;
   text-align: center;
-  padding: 1rem;
-  border-top: 1px solid #f2f2f2;
+  padding: 1.5rem 0;
+  border-top: 1px solid #eaeaea;
 }
 
 .cv-download-links a {
-  margin: 0 0.5rem;
-}
-
-/* New enhancements for spacing and layout */
-
-.cv-layout .container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  color: #333;
-}
-
-.cv-layout h2 {
-  margin-top: 2.5rem;
-  margin-bottom: 1rem;
-  font-size: 1.5rem;
-  border-bottom: 2px solid #e0e0e0;
-  padding-bottom: 0.3rem;
-  font-weight: 600;
-}
-
-.cv-layout h3 {
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
-  font-size: 1.2rem;
+  margin: 0 0.75rem;
+  color: #2a7ae2;
   font-weight: 500;
 }
 
-.cv-layout p {
-  margin-bottom: 1rem;
-  line-height: 1.6;
-  font-size: 1rem;
-}
+/* Responsive tweaks */
+@media screen and (max-width: 600px) {
+  .cv-layout .container {
+    padding: 1.5rem 1rem;
+  }
 
-.cv-layout ul {
-  padding-left: 1.2rem;
-  margin-bottom: 1.5rem;
-}
+  .cv-layout h2 {
+    font-size: 1.3rem;
+  }
 
-.cv-layout li {
-  margin-bottom: 0.5rem;
-  line-height: 1.5;
-}
+  .cv-layout h3 {
+    font-size: 1.1rem;
+  }
 
-.cv-layout p strong {
-  display: inline-block;
-  margin-top: 0.5rem;
-  font-weight: 600;
-}
-
-.cv-layout a {
-  color: #2a7ae2;
-  text-decoration: none;
-}
-
-.cv-layout a:hover {
-  text-decoration: underline;
+  .cv-layout li,
+  .cv-layout p {
+    font-size: 0.95rem;
+  }
 }
