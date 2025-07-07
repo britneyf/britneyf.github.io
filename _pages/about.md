@@ -19,6 +19,6 @@ Here are some things I’ve built/contributed to:
 
 If you’re in NYC and working on something exciting or just want to chat about AI, feel free to [say hi](mailto:britneyforsyth8@gmail.com).
 
-You can also [see what I’ve published](/publications), [check out my talks](/talks), or [download my CV](/cv).
+You can also [see what I’ve published](/publications), [check out my talks](/talks), or [download my CV](/files/BritneyTForsythCV2024.docx.pdf).
 
 ---
