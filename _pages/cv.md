@@ -19,7 +19,7 @@ Work Experience
 ======
 ### Data Scientist  
 **Memorial Sloan Kettering Cancer Center** – New York, NY  
-*Jan 2023 – Present*  
+*Jan 2023 – June 2025*  
 - Built robust, scalable pipelines in Python and R using Nextflow, streamlining single-cell RNA-seq workflows on HPC systems and increasing processing speed by 30%  
 - Applied machine learning techniques (clustering, dimensionality reduction, gene signature scoring) to uncover regulatory patterns in patient samples  
 - Visualized gene expression trends using Matplotlib and Seaborn, delivering insights to cross-disciplinary research teams  
