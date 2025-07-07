@@ -39,3 +39,60 @@
 .cv-download-links a {
   margin: 0 0.5rem;
 }
+
+/* New enhancements for spacing and layout */
+
+.cv-layout .container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  color: #333;
+}
+
+.cv-layout h2 {
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+.cv-layout h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.cv-layout p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  font-size: 1rem;
+}
+
+.cv-layout ul {
+  padding-left: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.cv-layout li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+}
+
+.cv-layout p strong {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-weight: 600;
+}
+
+.cv-layout a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+.cv-layout a:hover {
+  text-decoration: underline;
+}
