@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I build tools that bring AI to the forefront of biology and healthcare. Right now, I’m exploring opportunities in machine learning engineering, data science, applied research, and quantitative roles across tech, biotech, and finance.
+I build tools that bring AI to the forefront of biology and healthcare. 
+
+Right now, I’m exploring opportunities in machine learning engineering, data science, applied research, and quantitative roles across tech, biotech, and finance.
 
 My work lives primarily at the intersection of healthcare and AI. Over the past few years, I've built and contributed to several projects, including:
 - 🧬 [Scalable single-cell RNA-seq pipelines for tumor state discovery in colorectal cancer](https://doi.org/10.1158/1538-7445.AM2025-2648)  
@@ -23,7 +25,7 @@ My work lives primarily at the intersection of healthcare and AI. Over the past 
 #- 🌍 AI x science, and what research workflows look like in 10 years
 -->
 
-If you’re in NYC, working on something exciting, or just want to chat about AI, feel free to [say hi](mailto:britneyforsyth8@gmail.com).
+If you’re in NYC, working on something exciting, or just want to talk about AI, I would love to [chat](mailto:britneyforsyth8@gmail.com).
 
 You can also [download my resume here](/files/BritneyTForsythResume2025.pdf).
 
