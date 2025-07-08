@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Britney Forsyth"
+title                    : "Britney's Homepage"
 title_separator          : "-"
 name                     : &name "Britney Forsyth"
 description              : &description "personal description"
