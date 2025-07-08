@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Britney's Homepage"
+title                    : "Britney Forsyth"
 title_separator          : "-"
 name                     : &name "Britney Forsyth"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "BritneyTForsyth.ProfilePicture.2025.jpeg"
   name             : "Britney Forsyth"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist "
+  bio              : "Data Scientist / MLE"
   location         : "LA/NYC/ATX"
   employer         : # ""
   uri              : # URL
