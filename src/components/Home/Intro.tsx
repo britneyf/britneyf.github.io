@@ -12,22 +12,22 @@ const Intro = () => {
             <p className="body">Hi, I'm Britney. I'm a data scientist and machine learning engineer. I build tools that bring AI to the forefront of biology and healthcare.</p>
 
             <div className="space-y-1">
-                <div className="body font-bold">EDUCATION</div>
+                <div className="body font-bold underline">EDUCATION</div>
                 <div className="body">Columbia University — M.S. in Data Science</div>
                 <div className="body">Pennsylvania State University — B.S. in Mathematics and Biomedical Engineering</div>
             </div>
 
             <div className="space-y-1">
-                <div className="body font-bold">EMAIL</div>
+                <div className="body font-bold underline">EMAIL</div>
                 <div className="body">If you want to say hi, feel free to reach me here.</div>
                 <a className="body underline" href="mailto:britneyforsyth8@gmail.com">britneyforsyth8@gmail.com</a>
             </div>
 
             <div className="space-y-1">
-                <div className="body font-bold">RESUME & CV</div>
+                <div className="body font-bold underline">RESUME & CV</div>
                 <a
                   className="body underline"
-                  href="/BritneyForsythResume2025.pdf"
+                  href="/BritneyTForsythResume2025.pdf"
                   download
                   target="_blank"
                   rel="noopener noreferrer"
@@ -36,7 +36,7 @@ const Intro = () => {
                 </a>
                 <a
                   className="body underline ml-4"
-                  href="/BritneyForsythCV2025.pdf"
+                  href="/BritneyTForsythCV2025.pdf"
                   download
                   target="_blank"
                   rel="noopener noreferrer"
@@ -46,7 +46,7 @@ const Intro = () => {
             </div>
 
             <div className="space-y-1">
-                <div className="body font-bold">LINKS</div>
+                <div className="body font-bold underline">LINKS</div>
                 <div className="flex flex-wrap">
                     {socials.map((social, index) => (
                         <span key={social.name}>

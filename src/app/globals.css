@@ -10,8 +10,8 @@
 @tailwind variants;
 
 body {
-	color: rgb(21, 19, 19);
-	background: #999898;
+	color: rgb(12, 12, 13);
+	background: #ffffff;
 }
 
 @layer base {
