@@ -19,8 +19,8 @@ const Intro = () => {
 
             <div className="space-y-1">
                 <div className="body font-bold">EMAIL</div>
+                <div className="body">If you want to say hi, feel free to reach me here.</div>
                 <div className="body">britneyforsyth8@gmail.com</div>
-                <div className="body text-xs text-slate-500">If you want to say hi, feel free to reach me here.</div>
             </div>
 
             <div className="space-y-1">
