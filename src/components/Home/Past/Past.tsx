@@ -4,7 +4,7 @@ import PastList from "./PastList";
 
 const Past = () => {
 	return (
-		<div className="body md:space-y-15 space-y-5 pt-5 max-w-xs">
+		<div className="body md:space-y-15 space-y-5 pt-5">
 			{/* header for mobile (delayed) */}
 			<div className="sm:invisible sm:-mt-5 h-0">
 				<p className="font-bold underline">PROJECTS</p>
