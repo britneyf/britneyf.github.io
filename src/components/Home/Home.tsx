@@ -7,7 +7,7 @@ export default function Home() {
 	return (
 		<main className="flex min-h-screen flex-col items-center justify-between p-20 sm:p-8">
 			<div className="z-10 w-full max-w-7xl items-start justify-between sm:flex">
-				<div className="sm:w-1/5 max-w-xs pb-20">
+				<div className="sm:w-1/5 max-w-xs pb-20 sm:sticky sm:top-0">
 					<Intro />
 				</div>
 				{/* divider line that only shows up on xs screens like mobile */}

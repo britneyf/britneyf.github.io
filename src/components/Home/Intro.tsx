@@ -20,7 +20,29 @@ const Intro = () => {
             <div className="space-y-1">
                 <div className="body font-bold">EMAIL</div>
                 <div className="body">If you want to say hi, feel free to reach me here.</div>
-                <div className="body">britneyforsyth8@gmail.com</div>
+                <a className="body underline" href="mailto:britneyforsyth8@gmail.com">britneyforsyth8@gmail.com</a>
+            </div>
+
+            <div className="space-y-1">
+                <div className="body font-bold">RESUME & CV</div>
+                <a
+                  className="body underline"
+                  href="/BritneyForsythResume2025.pdf"
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                 Resume
+                </a>
+                <a
+                  className="body underline ml-4"
+                  href="/BritneyForsythCV2025.pdf"
+                  download
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                 CV
+                </a>
             </div>
 
             <div className="space-y-1">

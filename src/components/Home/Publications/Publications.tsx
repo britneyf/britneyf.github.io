@@ -39,15 +39,15 @@ const Publications = () => {
 			<ul className='space-y-5'>
 				{publications.map((pub, idx) => (
 					<li key={pub.url} className="space-y-1">
-						<a
-							href={pub.url}
-							target="_blank"
-							rel="noopener noreferrer"
-							className="text-slate-500 font-bold underline mr-2"
-						>
-							{String(idx + 1).padStart(2, '0')}
-						</a>
-						<div className="font-semibold">{pub.title}</div>
+						<span className="inline-flex items-center">
+							<Link
+								text={String(idx + 1).padStart(2, '0')}
+								href={pub.url}
+								className="text-slate-500 font-bold"
+							/>
+							{/* <span className="ml-1">→</span> */}
+						</span>
+						<div className="font-bold">{pub.title}</div>
 						<div className="italic">{pub.journal}</div>
 						<div className="text-xs">{pub.date}</div>
 					</li>
